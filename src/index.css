@@ -1,12 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Noto+Sans:wght@200;300;400;500;600&display=swap");
 
-/* @media screen and (max-width: 680px) {
-  .inner_container {
-    display: flex;
-    flex-direction: column;
-  }
-} */
-
 .navbar-collapse {
   flex-grow: 0 !important;
 }
