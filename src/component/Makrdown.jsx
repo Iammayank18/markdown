@@ -10,7 +10,7 @@ import rehypeRaw from "rehype-raw";
 const Makrdown = () => {
   const [markdown, setMakrkDown] = useState("");
   const [show, setShow] = useState(true);
-  const [windowWidth, setWindowWidth] = useState(0);
+  const [windowWidth, setWindowWidth] = useState(window.innerWidth);
 
   useEffect(() => {
     (() => {
