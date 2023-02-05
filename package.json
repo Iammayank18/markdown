@@ -9,10 +9,16 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "autoprefixer": "^10.4.13",
+    "postcss": "^8.4.21",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-markdown": "^8.0.5",
-    "rehype-highlight": "^6.0.0"
+    "react-syntax-highlighter": "^15.5.0",
+    "rehype-highlight": "^6.0.0",
+    "rehype-raw": "^6.1.1",
+    "remark-gfm": "^3.0.1",
+    "tailwindcss": "^3.2.4"
   },
   "devDependencies": {
     "@types/react": "^18.0.27",
