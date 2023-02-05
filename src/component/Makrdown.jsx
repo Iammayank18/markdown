@@ -25,7 +25,7 @@ const Makrdown = () => {
       };
     })();
   }, [windowWidth, window.innerWidth]);
-  console.log(windowWidth);
+
   return (
     <div>
       <div className="switchButton">
